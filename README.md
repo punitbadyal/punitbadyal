@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @punitbadyal
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking for internship 
-- 😄 Pronouns: Pannu 
+- 💞️ I’m looking for internship.
 - ⚡ Fun fact: Somewhat funny 
 
 <!---
